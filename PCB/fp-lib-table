@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "temhumsensor")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/DHT22")(options "")(descr ""))
+  (lib (name "co2sensor")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/MH-Z19B")(options "")(descr ""))
+  (lib (name "arduinopromini")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/ARDUINO_PRO_MINI")(options "")(descr ""))
+  (lib (name "onoffswitch")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/EG1218")(options "")(descr ""))
+  (lib (name "usb5v")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/10118194-0001LF")(options "")(descr ""))
+  (lib (name "bunny")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/kicaddrawings.preety")(options "")(descr ""))
+)
