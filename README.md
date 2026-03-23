@@ -19,3 +19,6 @@ PCB:
 
 <img width="1090" height="794" alt="anydesk00001-2" src="https://github.com/user-attachments/assets/c464a1d5-3c75-4843-a1f6-b0cae5375256" />
 
+# Details:
+
+I've used this tutorial as a reference: https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter/
