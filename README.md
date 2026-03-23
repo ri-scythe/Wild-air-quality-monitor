@@ -2,6 +2,7 @@
 An air quality monitor I've made because of how bad the air in my city can be sometimes.
 
 # CAD
+Made in Fusion360.
 
 <img width="532" height="728" alt="anydesk00002-1" src="https://github.com/user-attachments/assets/ad25b7f5-8b56-42c7-b4e3-bde616d51c8b" />
 
