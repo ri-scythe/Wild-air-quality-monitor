@@ -8,7 +8,7 @@ Made in Fusion360.
 
 <img width="929" height="700" alt="anydesk00003" src="https://github.com/user-attachments/assets/faf2b9ce-8ca2-4779-befe-192ec434dd9d" />
 
-#PCB
+# PCB
 Made in KiCad.
 
 Schematic:
