@@ -34,6 +34,8 @@ PCB:
 - [4x M3 FF 30mm spacers and 2x M2.5 FF 10mm spacers](https://aliexpress.ru/item/1005004127890102.html?sku_id=12000029443156235&spm=a2g2w.productlist.search_results.1.15aa3e369qvhKq)
 - [4x M2.5 and 8x M3 screws](https://aliexpress.ru/item/4001199728978.html?sku_id=10000015289904605&spm=a2g2w.productlist.search_results.0.76054df3SX27yN)
 
+TOTAL: 33,282,19 KZT ~ 70 USD
+
 # Details:
 
 I've used this tutorial as a reference: https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter/
