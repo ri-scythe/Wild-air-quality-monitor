@@ -1,5 +1,5 @@
 # wild-air-quality-monitor
-An air quality monitor I've made because of how bad the air in my city can be sometimes.
+An air quality monitor I've decided to make because of how bad the air in my city can be sometimes. It has CO2, humidity and temperature, PM sensors.
 
 # CAD
 Made in Fusion360.
