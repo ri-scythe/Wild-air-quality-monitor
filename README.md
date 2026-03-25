@@ -22,4 +22,5 @@ PCB:
 # Details:
 
 I've used this tutorial as a reference: https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter/
+
 I also used Claude AI to make the firmware for Arduino.
