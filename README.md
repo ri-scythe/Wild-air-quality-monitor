@@ -21,8 +21,19 @@ PCB:
 
 # BOM
 
-- PMS5003: https://www.amazon.com/risingsaplings-Concentration-Detection-Conditioning-Raspberry/dp/B0BG62Z8L3/ref=sr_1_2_sspa?crid=WYAYDCDEWMPH&dib=eyJ2IjoiMSJ9.FQXcjU6RR5OITgT_m05zHpFeUDHy1tCiaT6-jDVUEb7GyAUpR9A6PwnmoB12TQbdZ1WfLikQmXmqTfSx3GJfczTP0zlbRcrdlyOF-WiiJmsEipMxYLZaJzldpuj2Cp1IqM9ZxzLHvyxbTnSW1kBVvTrDOW_Uy9QUTYXZIENadR7R-xdt3oTrg24Q-6BThc_suwMGOutEP9IUVC3fHnSp2p9DOfujIPWKVxkfwU3e4sM.xHW2Bs0HGstsZoa0LYdkfaCgzs0plklPIUnaR8JAEY4&dib_tag=se&keywords=Pms5003&qid=1774465459&sprefix=pms50%2Caps%2C373&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-- (DHT2)[https://www.amazon.com/VKLSVAN-Humidity-Sensitive-Capacitor-Temperature/dp/B0DQ8CRGWB/ref=sr_1_16?crid=AY3ROKOEIDVH&dib=eyJ2IjoiMSJ9.pq8sdrwIG-1od_PNiCixM836B_KE5GriNQoecGcISK5Yyk1twMpP7Pfptw0r9BlFSp4sdPgNSR8sP7ldFvkKhBnOVR9Yu4oKInrOt9j3CxypB3_l2DI0SouwewItB52AVG9L26W9Z7hOhNCvieor00jrrX3VBMIpmIl4DBObAli7g7MCVgmYY3mnZWId5NMaFc9vEKspe5Itfw4m12MZgVgLr0QkRyJciHbQd6fwwXk.RS5-4Xou74i7Oiyrru4ENjlw3W-mNamxfMUQSKMk22U&dib_tag=se&keywords=Dht22&qid=1774465576&sprefix=dht22%2Caps%2C408&sr=8-16&th=1
+- (Arduino Pro Mini 5V)[]
+- (PMS5003)[]
+- (DHT2)[]
+- (MHZ19B)[]
+- (DS3231 RTC)[]
+- (Nextion 2.8" Display)[]
+- (EG1218 switch)[]
+- (Mini USB Connector)[]
+- (10k, 1k resistors. I won't need them if you will approve my LED chaser)[]
+- (M2.5 MF 30mm spacers)[]
+- (M2.5 FF 10mm spacers)[]
+- (M3 MF 10mm spacers)[]
+- (M3 FF 30mm spacers)[]
 
 # Details:
 
