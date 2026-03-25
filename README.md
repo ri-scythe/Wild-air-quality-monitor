@@ -30,9 +30,9 @@ PCB:
 - (EG1218 switch)[]
 - (Mini USB Connector)[]
 - (10k, 1k resistors. I won't need them if you will approve my LED chaser)[]
-- (4x M3 MF 10mm spacers and 2x M2.5 MF 30mm spacers)[https://aliexpress.ru/item/1005007389190533.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000040550999733&spm=a2g2w.productlist.search_results.0.15aa3e369qvhKq]
-- (4x M3 FF 30mm spacers and 2x M2.5 FF 10mm spacers)[https://aliexpress.ru/item/1005004127890102.html?sku_id=12000029443156235&spm=a2g2w.productlist.search_results.1.15aa3e369qvhKq]
-- (4x M2.5 and 8x M3 screws)[https://aliexpress.ru/item/1005007203611390.html?shpMethod=CAINIAO_STANDARD&sku_id=12000039792199789&spm=a2g2w.productlist.search_results.2.3b6fd526pJKQH4]
+- [4x M3 MF 10mm spacers and 2x M2.5 MF 30mm spacers](https://aliexpress.ru/item/1005007389190533.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000040550999733&spm=a2g2w.productlist.search_results.0.15aa3e369qvhKq)
+- [4x M3 FF 30mm spacers and 2x M2.5 FF 10mm spacers](https://aliexpress.ru/item/1005004127890102.html?sku_id=12000029443156235&spm=a2g2w.productlist.search_results.1.15aa3e369qvhKq)
+- [4x M2.5 and 8x M3 screws](https://aliexpress.ru/item/1005007203611390.html?shpMethod=CAINIAO_STANDARD&sku_id=12000039792199789&spm=a2g2w.productlist.search_results.2.3b6fd526pJKQH4)
 
 # Details:
 
