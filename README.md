@@ -4,7 +4,9 @@ An air quality monitor I've decided to make because of how bad the air in my cit
 # CAD
 Made in Fusion360.
 
+<img width="432" height="675" alt="anydesk00000-1" src="https://github.com/user-attachments/assets/f171dde4-7e61-4743-82ab-80509ab00e6d" />
 
+<img width="658" height="710" alt="anydesk00001-1" src="https://github.com/user-attachments/assets/e8fd3c33-bcf4-4621-9664-51fb17406c99" />
 
 # PCB
 Made in KiCad.
@@ -15,7 +17,7 @@ Schematic:
 
 PCB:
 
-
+<img width="1090" height="794" alt="anydesk00001-2" src="https://github.com/user-attachments/assets/0cff133e-8d9d-48a6-842f-be5d88d04400" />
 
 # BOM
 
