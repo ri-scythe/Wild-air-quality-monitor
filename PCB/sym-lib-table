@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "humtemsensor")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/DHT22/DHT22.kicad_sym")(options "")(descr ""))
+  (lib (name "co2sensor")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/MH-Z19B/MH-Z19B.kicad_sym")(options "")(descr ""))
+  (lib (name "arduinopromini")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/ARDUINO_PRO_MINI/ARDUINO_PRO_MINI.kicad_sym")(options "")(descr ""))
+  (lib (name "onoffswitch")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/EG1218/EG1218.kicad_sym")(options "")(descr ""))
+  (lib (name "usb5v")(type "KiCad")(uri "C:/Users/Пользователь/Downloads/10118194-0001LF/10118194-0001LF.kicad_sym")(options "")(descr ""))
+)
