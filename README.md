@@ -4,20 +4,18 @@ An air quality monitor I've decided to make because of how bad the air in my cit
 # CAD
 Made in Fusion360.
 
-<img width="432" height="675" alt="anydesk00000-1" src="https://github.com/user-attachments/assets/f171dde4-7e61-4743-82ab-80509ab00e6d" />
 
-<img width="658" height="710" alt="anydesk00001-1" src="https://github.com/user-attachments/assets/e8fd3c33-bcf4-4621-9664-51fb17406c99" />
 
 # PCB
 Made in KiCad.
 
 Schematic:
 
-<img width="933" height="724" alt="anydesk00000-2" src="https://github.com/user-attachments/assets/17258a52-9e44-41fa-8fbc-b6aa4ec9bba4" />
+
 
 PCB:
 
-<img width="1090" height="794" alt="anydesk00001-2" src="https://github.com/user-attachments/assets/0cff133e-8d9d-48a6-842f-be5d88d04400" />
+
 
 # BOM
 
@@ -27,11 +25,12 @@ PCB:
 - [MHZ19B](https://aliexpress.ru/item/32651094869.html?shpMethod=CAINIAO_STANDARD&sku_id=59748440079&spm=a2g2w.productlist.search_results.7.12313c563kKEUA)
 - [DS3231 RTC](https://aliexpress.ru/item/1005009372357241.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000048902048959&spm=a2g2w.productlist.search_results.2.6ac55c513ZLA3G)
 - [Nextion 2.8" Display](https://aliexpress.ru/item/4001240732911.html?sku_id=12000016667327153&spm=a2g2w.productlist.search_results.1.33e64887Og5KYc)
-- [EG1218 switch](https://aliexpress.ru/item/1005010262255606.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000051707116759&spm=a2g2w.productlist.search_results.1.504416efuBK6pg)
+- [2x EG1218 switch](https://aliexpress.ru/item/1005010262255606.html?shpMethod=AE_CN_SUPER_ECONOMY_G&sku_id=12000051707116759&spm=a2g2w.productlist.search_results.1.504416efuBK6pg)
 - [Mini USB Connector](https://aliexpress.ru/item/1005008106928890.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000043796686582&spm=a2g2w.productlist.search_results.0.5fce5845O0T4ku)
 - [6x M3 MF 10mm spacers](https://aliexpress.ru/item/1005007389190533.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000040550999733&spm=a2g2w.productlist.search_results.0.15aa3e369qvhKq)
 - [6x M3 FF 30mm spacers](https://aliexpress.ru/item/1005004127890102.html?sku_id=12000029443156235&spm=a2g2w.productlist.search_results.1.15aa3e369qvhKq)
 - [12x M3 screws](https://aliexpress.ru/item/4001199728978.html?sku_id=10000015289904605&spm=a2g2w.productlist.search_results.0.76054df3SX27yN)
+- [FTDI USB TTL]()
 
 # Details:
 
